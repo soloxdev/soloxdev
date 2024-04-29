@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soloxdev
+<h1 align="center">👋 Hi, I’m @soloxdev</h1>
 - I’m currently learning c# and web development
 - I’m currently working on different commissions
 
